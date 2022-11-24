@@ -37,6 +37,18 @@
  * of the “Programme d’Investissement d’Avenir IRT Nanoelec” (ANR-10-AIRT-05).
  */
 
+/**
+ * 
+ * This code is the property of CEA. It shall be subject to the obligations 
+ * of the contract CEA/ANR: Convention de Financementi ANR-10-AIRT-05 and of 
+ * the IRT Nanoelec consortium agreement Ref C17848 and its Appendices. 
+ *
+ * Ce code est la propriété de CEA. Il est soumis aux obligations de la convention 
+ * CEA /ANR : Convention de Financement ANR-10-AIRT-05 et à l’accord de 
+ * consortium IRT Nanoelec Ref. C17848 et ses avenants.
+ *
+ */
+
 #ifndef LACI_HQC_PKE_H
 #define LACI_HQC_PKE_H
 

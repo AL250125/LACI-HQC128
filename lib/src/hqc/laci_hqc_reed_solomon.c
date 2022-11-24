@@ -37,6 +37,18 @@
  * of the “Programme d’Investissement d’Avenir IRT Nanoelec” (ANR-10-AIRT-05).
  */
 
+/**
+ * 
+ * This code is the property of CEA. It shall be subject to the obligations 
+ * of the contract CEA/ANR: Convention de Financementi ANR-10-AIRT-05 and of 
+ * the IRT Nanoelec consortium agreement Ref C17848 and its Appendices. 
+ *
+ * Ce code est la propriété de CEA. Il est soumis aux obligations de la convention 
+ * CEA /ANR : Convention de Financement ANR-10-AIRT-05 et à l’accord de 
+ * consortium IRT Nanoelec Ref. C17848 et ses avenants.
+ *
+ */
+
 #include "laci.h"
 
 static laci_hword_t hqc128_RS_poly[LACI_HQC128_G] = {89,69,153,116,176,117,111,75,73,233,242,233,65,210,21,139,103,173,67,118,105,210,174,110,74,69,228,82,255,181,1};
