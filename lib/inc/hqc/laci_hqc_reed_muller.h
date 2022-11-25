@@ -38,15 +38,9 @@
  */
 
 /**
- * 
- * This code is the property of CEA. It shall be subject to the obligations 
- * of the contract CEA/ANR: Convention de Financementi ANR-10-AIRT-05 and of 
- * the IRT Nanoelec consortium agreement Ref C17848 and its Appendices. 
- *
- * Ce code est la propriété de CEA. Il est soumis aux obligations de la convention 
- * CEA /ANR : Convention de Financement ANR-10-AIRT-05 et à l’accord de 
- * consortium IRT Nanoelec Ref. C17848 et ses avenants.
- *
+ * This code is the property of CEA. The research that allowed the development 
+ * of this code was partly funded by the French National Research Agency, 
+ * within the framework of the “Investissements d’avenir” program (ANR-10-AIRT-05). 
  */
 
 #ifndef LACI_HQC_REED_MULLER_H
